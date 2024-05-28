@@ -1,4 +1,4 @@
-Description of the Backend Code Workings
+**Description of the Backend Code Workings**
 The Consultations API backend is built using Node.js, Express, and MongoDB. It provides endpoints for managing user authentication and consultation records in a health facility. Here's a brief overview of how it works:
 
 1. User Authentication
